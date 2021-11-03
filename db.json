@@ -1,5 +1,24 @@
 {
   "contacts": [
-
+{
+"id": "b7d16d8f-ca18-45ba-9cd7-97c45a0bb927",
+"name": "adam",
+"email": "adam@gmail.com"
+},
+{
+"id": "dd8be616-cb32-4805-9d30-4b2d891e65f6",
+"name": "john",
+"email": "john@gmail.com"
+},
+{
+"id": "bcd3f12f-9249-4589-8af5-27aa3ee91000",
+"name": "ahmed",
+"email": "ahmed@gmail.com"
+},
+{
+"id": "fd5319b7-023a-462b-ab9b-bce7e6fcddf3",
+"name": "ali",
+"email": "ali@gmail.com"
+}
   ]
 }
